@@ -2,7 +2,7 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/adrianomateuss7)
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/adriano-mateus-55247b2a9)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/adriano-mateus-55247b2a9)
 
 ![adrianomts7 GitHub states](https://github-readme-stats.vercel.app/api?username=adrianomts7&show_icons=true&theme=onecard)
 
