@@ -6,6 +6,8 @@
 
 ![adrianomts7 GitHub states](https://github-readme-stats.vercel.app/api?username=adrianomts7&show_icons=true&theme=onecard)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+
 ### Tecnologias que eu uso no meu dia 
 
 <div style="display: inline_block" ><br/>
