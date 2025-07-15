@@ -1,4 +1,4 @@
-<h1 align="center">Olá! Eu sou o Adriano 👋</h1>
+<h1 align="left">Olá! Eu sou o Adriano 👋</h1>
 
 ###
 
@@ -64,7 +64,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/adrianomts7/adrianomts7/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/adrianomts7/output/snake.svg" alt="Snake animation" />
 
 ###
 
