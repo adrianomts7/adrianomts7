@@ -64,7 +64,7 @@
 
 ###
 
-![pacman contribution graph](https://raw.githubusercontent.com/adrianomts7/adrianomts7/output/pacman-contribution-graph.svg)
+![Snake animation](https://raw.githubusercontent.com/adrianomts7/adrianomts7/output/snake.svg)
 
 
 ###
