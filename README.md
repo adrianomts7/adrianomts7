@@ -64,8 +64,7 @@
 
 ###
 
-![Snake animation](https://raw.githubusercontent.com/adrianomts7/adrianomts7/output/github-contribution-grid-snake.svg)
-
+<img src="https://raw.githubusercontent.com/adrianomts7/adrianomts7/output/snake.svg" alt="Snake animation" />
 
 ###
 
