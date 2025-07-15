@@ -21,14 +21,12 @@ Tenho como objetivo consolidar cada conhecimento por meio da prática constante,
 
 ### Linguagens & Frameworks
 - JavaScript
-- Node.js (Express)
+- Node.js
 - React.js
-- Sequelize (ORM)
-- JWT (Autenticação)
 
 ### Banco de dados
 - MySQL
-- MongoDB (experiência anterior)
+- MongoDB
 
 ### Ferramentas & DevOps
 - Git e GitHub
@@ -72,9 +70,7 @@ Sempre que aprendo algo novo, transformo em código, em um repositório ou artig
 ## 🤝 Vamos nos conectar?
 
 💼 [LinkedIn](https://www.linkedin.com/in/adrianomateus)  
-📫 Me envie um e-mail: **adriano.seuemail@gmail.com**  
-📸 Instagram dev (opcional): @adriano.dev
-
+📫 Me envie um e-mail: **mateus_adriano@icloud.com**  
 ---
 
 > *"A evolução vem do hábito de nunca parar de aprender."* 💡
