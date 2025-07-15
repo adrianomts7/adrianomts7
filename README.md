@@ -1,76 +1,103 @@
-# Olá! Eu sou o Adriano 👋
+<h1 align="center">Olá! Eu sou o Adriano 👋</h1>
 
-Sou desenvolvedor full stack em formação, com foco em construir soluções reais e funcionais desde os primeiros passos na programação.  
-Gosto de transformar teoria em prática e ver cada linha de código se tornar parte de algo útil.
+###
 
----
+<p align="left">Desenvolvedor em formação, focado em criar soluções úteis, escaláveis e com propósito.<br>Tenho direcionado meus estudos para o ecossistema JavaScript, especialmente com Node.js e React, buscando transformar cada aprendizado em projetos reais e funcionais.<br>Ao longo da minha jornada como desenvolvedor, acredito que aprender na prática é o melhor caminho, por isso, estou sempre aplicando os conceitos em sistemas completos que simulam desafios do mundo real.</p>
 
-## 🧠 Sobre mim
+###
 
-🎓 Técnico em Desenvolvimento de Sistemas – SENAI  
-📚 Estudando diariamente para me tornar um desenvolvedor completo  
-🧩 Explorando: JavaScript | Node.js | React | Sequelize | MySQL | JWT | Docker  
-🛠️ Me dedicando a APIs RESTful com autenticação, controle de acesso e segurança  
-🗂️ Trabalhando com projetos próprios e acadêmicos focados em CRUD, controle de estoque, login por perfil e boas práticas
+<h2 align="left">Sobre mim 🧠</h2>
 
-Tenho como objetivo consolidar cada conhecimento por meio da prática constante, documentando meus aprendizados e criando soluções que simulem contextos reais do mercado de software.
+###
 
----
+<p align="left">🖥️ Técnico em Desenvolvimento de Sistemas pelo SENAI<br>📚 Estudando JavaScript, Node.js, React e desenvolvimento fullstack</p>
 
-## 🚀 Tecnologias que uso
+###
 
-### Linguagens & Frameworks
-- JavaScript
-- Node.js
-- React.js
+<h2 align="left">Tecnologias 💻</h2>
 
-### Banco de dados
-- MySQL
-- MongoDB
+###
 
-### Ferramentas & DevOps
-- Git e GitHub
-- Docker
-- Insomnia e Postman
-- VS Code
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+</div>
 
----
+###
 
-## 📁 Organização dos meus estudos
+<h2 align="left">Frameworks 🚀</h2>
 
-Mantenho uma estrutura de estudos contínuos aqui no GitHub onde compartilho:
+###
 
-📌 Projetos de prática (API de vendas, sistemas escolares, controle de estoque)  
-📌 Resumos técnicos e desafios resolvidos  
-📌 Aplicações com autenticação e controle de permissões
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
+</div>
 
-Sempre que aprendo algo novo, transformo em código, em um repositório ou artigo. Isso me ajuda a fixar o conteúdo e a evoluir de forma sólida.
+###
 
----
+<h2 align="left">Banco de Dados 🗃️</h2>
 
-## 📊 Estatísticas do GitHub
+###
 
-![Adriano's GitHub Stats](https://github-readme-stats.vercel.app/api?username=adrianomts7&show_icons=true&theme=react)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adrianomts7&layout=compact&theme=react)
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+</div>
 
----
+###
 
-## 🕹️ Gráfico de contribuição (Pac-Man Style)
+<img src="https://raw.githubusercontent.com/adrianomts7/adrianomts7/output/snake.svg" alt="Snake animation" />
 
-[![Adriano GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=adrianomts7&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+###
 
----
+<h2 align="left">Estatísticas do GitHub 📊</h2>
 
-## 🏆 Troféus
+###
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=adrianomts7&theme=radical&column=3&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=adrianomts7&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" /> <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adrianomts7&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
 
----
+###
 
-## 🤝 Vamos nos conectar?
+<div align="left">
+</div>
 
-💼 [LinkedIn](https://www.linkedin.com/in/adrianomateus)  
-📫 Me envie um e-mail: **mateus_adriano@icloud.com**  
----
+###
 
-> *"A evolução vem do hábito de nunca parar de aprender."* 💡
+<h3 align="left">Contate-me 🤝</h3>
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/adrianomts7/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="mateus_adriano@icloud.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+  <a href="https://www.instagram.com/adrianomateuss7/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+</div>
+
+###
