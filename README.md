@@ -13,11 +13,6 @@
 <p align="left">🖥️ Técnico em Desenvolvimento de Sistemas pelo SENAI<br>📚 Estudando JavaScript, Node.js, React e desenvolvimento fullstack</p>
 
 ###
-
-<img src="https://adrianomts7.github.io/adrianomts7/snake.svg" alt="Snake animation" />
-
-
-###
 <h2 align="left">Tecnologias 💻</h2>
 
 ###
