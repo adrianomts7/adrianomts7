@@ -16,6 +16,7 @@
 
 <img src="https://raw.githubusercontent.com/adrianomts7/adrianomts7/output/snake.svg" alt="Snake animation" />
 
+
 ###
 <h2 align="left">Tecnologias 💻</h2>
 
