@@ -14,7 +14,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/adrianomts7/adrianomts7/output/snake.svg" alt="Snake animation" />
+<img src="https://adrianomts7.github.io/adrianomts7/snake.svg" alt="Snake animation" />
 
 
 ###
